@@ -16,6 +16,6 @@ For this project, I wanted to practice having my frontend call my backend to pul
 
 3. Navigate to your chosen destination where you want to store the cloned repo.
 4. Use git Clone + {link you copied from step 1} and you are all set to go
-![image](https://github.com/jmorg85/Display-my-github-repos-Frontend/assets/15697425/b80542b8-c8c3-4df3-8523-189c0c4cf818)
+![image](https://github.com/jmorg85/Display-my-github-repos-Frontend/assets/15697425/111b8558-ab79-41fe-b8a7-e2cf0d05676e)
 
-![image](https://github.com/jmorg85/Display-my-github-repos-Frontend/assets/15697425/eeace570-3fbc-4a1c-bd24-79e6dcd199c5)
+![image](https://github.com/jmorg85/Display-my-github-repos-Frontend/assets/15697425/86d9c4e7-eb04-478c-b3fd-0d0f61a0520e)
